@@ -41,6 +41,9 @@ Unity / 2D Side / Action
 
 이동 **WASD**
 
+## 예시 코드  
+ReadMe 최하단에 프로젝트의 일부 스크립트를 발췌했습니다. 코드 스타일 확인 등을 위해 편히 봐주세요.
+
 ---
 
 # YoungsunLee_Portfolio_GameClientProgrammer_2026
@@ -71,17 +74,21 @@ Each project includes the following:
 
 <img width="575" height="322" alt="image" src="https://github.com/user-attachments/assets/a0724b87-3420-4f01-9007-0b73b4ce5cd6" />  
 
-Move **WASD**  
+이동 **WASD**  
 
 
 <img width="575" alt="image" src="https://github.com/user-attachments/assets/3940fe75-bda3-4667-bbb0-3e9ed74e1d7d" />  
 
-Move **WASD**  
-Attack  
-Special Attack  
-Shoot Attack  
-Interaction  
+이동 **WASD**  
+공격  
+특수 공격  
+원거리 공격  
+상호작용
 
 <img width="573" height="322" alt="image" src="https://github.com/user-attachments/assets/00c9caa5-ce10-4705-8a31-96be6a32ef14" />  
 
-Move **WASD**
+이동 **WASD**
+
+## Sample Code  
+Selected scripts from the projects are included at the bottom of this README to provide an overview of the code style and implementation details.
+
