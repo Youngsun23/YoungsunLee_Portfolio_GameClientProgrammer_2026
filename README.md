@@ -1,6 +1,6 @@
 # YoungsunLee_Portfolio_GameClientProgrammer_2026
 
-이영선 개발의 게임 프로젝트 3개를 정리한 저장소입니다.
+개발자 이영선의 게임 프로젝트 3개를 정리한 저장소입니다.
 
 ## 프로젝트 목록
 - **Project SV**  
